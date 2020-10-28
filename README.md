@@ -9,6 +9,8 @@ This observation is supported by the relatively low r values calculated for thes
 The Southern Hemisphere Wind Speed vs Latitude Linear Regression resulted in a negative r.
 This may mean that there is a negative relationship between wind speed in the Southern Hemisphere and a country's latitude.
 
-This analysis has its limitations. Two of the ideal cities retrieved on one of the final lists were located in Iran. 
+This report is a quick way to generate great recommendations for vacation spots around the world, based on certain desired criteria.
+However, this analysis has its limitations (i.e. buyer beware).
+Two of the ideal cities retrieved on one of the previously randomly generated lists, were located in questionable regions of the world. 
 This means that the report does not take into account the geopolitical strife (among other things) that may be present in the locations that are randomly selected.
-Before actually booking a vacation, additional research is needed in order to determine a location's safety and security.
+Before actually booking a vacation, additional research would be needed in order to determine a location's safety and security.
